@@ -307,17 +307,17 @@
 # print(f(5, 10))
 
 
-class Zoo:
-    def animal(self, an):
-        self.an = an
-
-    def voice(self, value, name):
-        print(f'Животное {name} издает звук {value}')
-
-cat = Zoo()
-dog = Zoo()
-cat.voice('Мяу', 'Кошка')
-dog.voice('Гав', 'Псина ебаная')
+# class Zoo:
+#     def animal(self, an):
+#         self.an = an
+#
+#     def voice(self, value, name):
+#         print(f'Животное {name} издает звук {value}')
+#
+# cat = Zoo()
+# dog = Zoo()
+# cat.voice('Мяу', 'Кошка')
+# dog.voice('Гав', 'Псина ебаная')
 
 
 
